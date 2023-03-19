@@ -1,0 +1,17 @@
+Of all the known genetic risk factors for late-onset Alzheimer's disease, the strongest is a gene for the protein called ApoE4. People with one copy of this gene are 3.5 times more likely, on average, to develop Alzheimer's than others, and those with two copies face a 12-fold increased risk. However, exactly how ApoE4 boosts the risk of Alzheimer's remains unclear.
+
+Multiple types of cells in the brain make ApoE4-;some of it is produced by neurons, but other brain cells called glia make it in higher quantities. For that reason, most prior research on this protein has focused on ApoE4 from glia.
+
+Now, researchers at Gladstone Institutes are shining a brighter spotlight on ApoE4 produced by neurons. In a study published in the journal Nature Aging, they demonstrate in mice that ApoE4 from neurons plays a much bigger disease-driving role in Alzheimer's than previously thought.
+
+    This research could be a turning point in the field of ApoE research. Our findings suggest an opportunity to explore new treatments that would specifically target neuronal ApoE4 to protect against Alzheimer's disease."
+
+    Yadong Huang, MD, PhD, Gladstone Senior Investigator, Study's Senior Author
+
+ApoE4 is actually one of three versions of the ApoE protein, which is found in every person's body. Most people have the "healthy" version, ApoE3, while about 12 percent have the Alzheimer's-protective version, ApoE2. But about 25 percent of North Americans have one copy of the gene for ApoE4, and up to 3 percent have two copies.
+
+Most ApoE in our brains is produced by a type of glial cell called astrocytes, and previous research suggested that astrocytic ApoE4 contributes to Alzheimer's disease. However, evidence from Huang and colleagues has hinted for several years that ApoE4 from neurons may play an even more important part.
+
+"Under normal conditions, neurons don't make much ApoE at all, but when under stress or in response to injury, they quickly increase production of this protein," says Huang, who is also director of the Center for Translational Advancement at Gladstone, and professor of neurology and pathology at UC San Francisco (UCSF). "That's why we are very interested in neuronal ApoE4 under disease conditions."
+
+To better understand the protein's role, his team created a mouse model for Alzheimer's disease in which the mouse ApoE gene was replaced by the human gene for ApoE4 or ApoE3. The mice also carry a unique form of the human tau protein that accumulates in the brain with aging-;a hallmark of Alzheimer's disease. Importantly, in the genetically engineered mice, ApoE production by neurons could be selectively eliminated, while preserving the production of ApoE by other cell types, allowing the scientists to examine exactly how deleting neuronal ApoE4 impacts disease progression in mice that mimic Alzheimer's disease.
